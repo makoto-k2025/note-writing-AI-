@@ -1,0 +1,5 @@
+{
+  "name": "note Writing Support AI",
+  "description": "An application to generate a multi-chapter book outline on any business topic, and then write full chapters based on the outline. Users can specify the number of chapters, complexity, and request revisions.",
+  "requestFramePermissions": []
+}
